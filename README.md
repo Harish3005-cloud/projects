@@ -4,6 +4,18 @@ my projects(html,Css,javascript)
 Aurthor-Harish.E
 <br>
 <h3>1.Amazon-Clone</h3>
-<h3>2.Myntra Clone</h3>
-
+<p> Languages used
+  <li>Html</li>
+  <li>Css</li>
+  <br>
+  <img src="Amazon.png">
+</p>
 <br>
+<h3>2.Myntra</h3>
+<p> Languages used
+<li>Html</li>
+<li>Css</li>
+<br>
+<img src="Myntra.png">
+  
+</p>
